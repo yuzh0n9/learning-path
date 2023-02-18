@@ -1,6 +1,10 @@
 # learning-path
  收集各种计算机方面的学习路线
 
+[安全思维导图集合](https://github.com/SecWiki/sec-chart)
+
+
+
 
 
 ## 开发人员学习路线
@@ -21,6 +25,8 @@
 
 [Web安全职业发展路线解读](https://mp.weixin.qq.com/s/Y72h8X3f_N4KAVPg9wJE9g)
 
+[PHP反序列化新手入门学习总结](https://mp.weixin.qq.com/s/tTbnYzMgfrx2xlrU6KoNpQ)
+
 
 
 
@@ -40,4 +46,10 @@
 [Android逆向前期准备](https://bbs.kanxue.com/thread-275616.htm)
 
 [android逆向的自学路线](https://mp.weixin.qq.com/s/1rYO58jYASo3niSfxuDQSw)
+
+
+
+## 深度学习
+
+[深度学习工程师生存指南](https://dl.ypw.io/)
 
